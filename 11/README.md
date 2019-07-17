@@ -8,3 +8,23 @@
 \end{cases}")
 
 ![D_u = 1.2](fig/D_u=1.2.png)
+
+![D_u = 1.25](fig/D_u=1.27.png)
+
+![D_u = 1.28](fig/D_u=1.28.png)
+
+![D_u = 1.3](fig/D_u=1.3.png)
+
+![D_u = 1.35](fig/D_u=1.35.png)
+
+![D_u = 1.37](fig/D_u=1.37.png)
+
+![D_u = 1.38](fig/D_u=1.38.png)
+
+![D_u = 1.4](fig/D_u=1.4.png)
+
+![D_u = 1.42](fig/D_u=1.42.png)
+
+![D_u = 1.45](fig/D_u=1.45.png)
+
+![D_u = 1.5](fig/D_u=1.5.png)
